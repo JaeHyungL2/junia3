@@ -28,7 +28,7 @@
   </a>
 </span>
 <span>
-  <a href="https://www.facebook.com/jyyonsei">
+  <a href="">
     <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white"/>
   </a>
 </span>   
@@ -38,7 +38,7 @@
 Reseach on deep learning
 
 ## WORK EXPERIENCE
-Math Academy, Seoul/South Korea ```(02/2016 ~ 07/2022)```  
+Seoul/South Korea 
 
 ## EDUCATION
 Bachelor Degree of Electrical and Electronic engineering ```(03/2016 ~ 08/2022)``` (Yonsei University, Seoul)   
@@ -72,11 +72,6 @@ Master Degree of Electrical and Elecronic engineering ```(09/2022 ~ Present)``` 
 </span>
 
 ## Publications
-**J. Park et al. "Regression Network Utilizing Cosine Similarity for Measuring Motion Blur in Facial Videos"**  
-```The 32nd Signal Processing Conference``` - Oral presentation/Best paper award  
-**J. Park et al. "Layer-wise Auto-Weighting for Non-Stationary Test-Time Adaptation"**  
-```IEEE/CVF WACV 2024```  Poster presentation
-
 </div>
 </div>
 
